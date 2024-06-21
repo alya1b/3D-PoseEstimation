@@ -1,1 +1,1 @@
-# readMe with examples and credentials are coming soon
+# ReadMe with examples and credentials is coming soon
